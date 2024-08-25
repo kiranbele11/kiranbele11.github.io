@@ -7,6 +7,8 @@
 
 ## Projects
 
+### Python Flask-based bug fixing and code refactoring project
+`[Bug-Report-and-Resolution-Approach.pdf]`
 
 
 ## Education
