@@ -9,8 +9,7 @@
 
 ### Python Flask-based bug fixing and code refactoring project
 
-<object data="{{ site.baseurl }}/assets/Bug-Report-and-Resolution-Approach.pdf" width="100%" height="500" type='application/pdf'></object>
-Download : [Download the PDF]({{ site.baseurl }}/assets/Bug-Report-and-Resolution-Approach.pdf)
+[View my PDF]({{ site.baseurl }}/assets/Bug-Report-and-Resolution-Approach.pdf)
 
 
 ## Education
