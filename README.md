@@ -8,7 +8,8 @@
 ## Projects
 
 ### Python Flask-based bug fixing and code refactoring project
-`[Bug-Report-and-Resolution-Approach.pdf]`
+
+<object data="{{ site.baseurl }}/assets/Bug-Report-and-Resolution-Approach.pdf" width="100%" height="500" type='application/pdf'></object>
 
 
 ## Education
