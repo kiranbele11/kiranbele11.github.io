@@ -7,9 +7,7 @@
 
 ## Projects
 
-### Python Flask-based bug fixing and code refactoring project
-
-[View my PDF]({{ site.baseurl }}/assets/Bug-Report-and-Resolution-Approach.pdf)
+ 1. *Python Flask-based bug fixing and code refactoring project* : [View my PDF]({{ site.baseurl }}/assets/Bug-Report-and-Resolution-Approach.pdf)
 
 
 ## Education
