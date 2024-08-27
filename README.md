@@ -8,7 +8,7 @@
 ## Projects
 
  1. *Python Flask-based bug fixing and code refactoring project* : [View my PDF]({{ site.baseurl }}/assets/Bug-Report-and-Resolution-Approach.pdf)
-
+ 2. *Regex Flask application depolyment on AWS EC2* : [View my PDF]({{ site.baseurl }}/assets/Regex-Matching-Web-Application-Development-Project-Report.pdf)
 
 ## Education
 
